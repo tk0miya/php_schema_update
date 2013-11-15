@@ -1,0 +1,8 @@
+<?php
+$sql_dir = '/path/to/sql_dir/modify';
+$dsn = array('phptype'  => 'mysql',
+             'username' => '',
+             'password' => '',
+             'hostspec' => '',
+             'database' => '');
+ ?>
